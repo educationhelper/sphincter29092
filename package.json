@@ -1,0 +1,14 @@
+{
+  "name": "sphincter29092",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "📚 一对一补习 📚 大马最出名的一对一补习",
+  "keywords": [
+    "📚 一对一补习 📚 大马最出名的一对一补习"
+  ],
+  "repository": "https://github.com/teducationhelper/sphincter29092",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
